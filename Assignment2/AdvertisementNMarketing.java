@@ -49,8 +49,8 @@ public class AdvertisementNMarketing extends TourismRelatedService{
 	private void type_of_Advertising() {
 		System.out.println("\n\n**********************************ADVERTISING**********************************");
 		System.out.println("\nThere are two types of advertisement" + 
-						   "\nType 1 is Mobile Advertising on social media. Example: Facebook" + 
-						   "\nType 2 is Print Advertising on print media. Example: Brochure");
+			           "\nType 1 is Mobile Advertising on social media. Example: Facebook" + 
+				   "\nType 2 is Print Advertising on print media. Example: Brochure");
 	}
 	
 	public void mobileAdvertising() {
@@ -61,16 +61,16 @@ public class AdvertisementNMarketing extends TourismRelatedService{
 		System.out.println("LUCKY DRAW IS HERE FOR YOU !!");
 		System.out.println("\nThe price for 4 days 3 nights is ONLY RM8000!! Hurry up!!");
 		System.out.println("Price Packs included: "
-					       + "\n- Herbal Bath Ticket"
-						   + "\n- Check in five-star hotel : Sangerilla Hotel"
-					       + "\n- Dive and shark interaction"
-						   + "\n- Experience kayaking");
+			         + "\n- Herbal Bath Ticket"
+				 + "\n- Check in five-star hotel : Sangerilla Hotel"
+				 + "\n- Dive and shark interaction"
+			         + "\n- Experience kayaking");
 					       
 		System.out.println("\nRules : "
-						   + "\nStep 1 : Like our page"
-					       + "\nStep 2 : Follow us" 
-						   + "\nStep 3 : Tag 3 friends in comment section" 
-					       + "\nStep 4 : Share this story and tag us in your story.");
+				 + "\nStep 1 : Like our page"
+			         + "\nStep 2 : Follow us" 
+				 + "\nStep 3 : Tag 3 friends in comment section" 
+				 + "\nStep 4 : Share this story and tag us in your story.");
 				
 		System.out.println("\n***ONLY 1 winner will be chosen. Winner will be contacted on after 10 days when the activity is end. GOOD LUCK!");	
 	}
