@@ -43,9 +43,9 @@ public class ProductDescription extends TourismRelatedService{
 	private void productInfo() {
 		System.out.print("\n\n**********************************PRODUCT DESCRIPTION**********************************");
 		System.out.println("\nType of tourism and the service:" 
-				         + "\n1. Health Tourism.   Service : Cosmetic Surgery, Dentistry, Cardiac Surgery" 
-					     + "\n2. Sport Tourism.    Service : Snorkeling, Kayaking, Gym"
-					     + "\n3. Cultural Tourism. Service : Museums, Historic sites, Handicrafts");
+				 + "\n1. Health Tourism.   Service : Cosmetic Surgery, Dentistry, Cardiac Surgery" 
+			         + "\n2. Sport Tourism.    Service : Snorkeling, Kayaking, Gym"
+			         + "\n3. Cultural Tourism. Service : Museums, Historic sites, Handicrafts");
 		
 		System.out.print("\nPlease select the tourism you want : ");
 		tourism = scan.nextLine();
